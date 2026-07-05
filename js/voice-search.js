@@ -1,4 +1,4 @@
-
+/* esto es un copmentario de prueba jajaja xdxdxdxd*/ 
 const voiceSearch = document.querySelector(".voice-search");
 let microAceptado = false;
 
